@@ -2,7 +2,20 @@
 <resources>
 
     <string name="app_name">Upgrade Your Cereal</string>
-    <string name="hello_world">Hello world!</string>
-    <string name="menu_settings">Settings</string>
+    <string name="text_about">
+        Welcome to Upgrade Your Cereal!  This just-for-kick apps will suggest a
+        superior alternative to your favorite cereal and a slogan for it.  
+        Please press the CEREAL button and select your favorite cereal.
+    </string>
+    <string name="title_applejacks">Apple Jacks</string>
+    <string name="title_cocoapuffs">Cocoa Puffs</string>
+    <string name="title_frankenberry">Frankenberry</string>
+    <string name="title_frostedflakes">Frosted Flakes</string>
+    <string name="title_goldencrisp">Golden Crisp</string>
+    <string name="title_honeycombs">Honeycombs</string>
+    <string name="title_luckycharms">Lucky Charms</string>
+    <string name="title_specialk">Special K</string>
+    <string name="title_total">Total</string>
+    <string name="title_trix">Trix</string>
 
 </resources>

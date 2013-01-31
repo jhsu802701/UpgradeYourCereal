@@ -1,0 +1,64 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+    
+    <item
+        android:id="@+id/option_applejacks"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="@string/title_applejacks"/>
+    
+    <item
+        android:id="@+id/option_cocoapuffs"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="@string/title_cocoapuffs"/>
+
+    <item
+        android:id="@+id/option_frankenberry"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="@string/title_frankenberry"/>
+
+    <item
+        android:id="@+id/option_frostedflakes"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="@string/title_frostedflakes"/>
+    
+    <item
+        android:id="@+id/option_goldencrisp"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="@string/title_goldencrisp"/>
+    
+    <item
+        android:id="@+id/option_honeycombs"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="@string/title_honeycombs"/>
+    
+    <item
+        android:id="@+id/option_luckycharms"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="@string/title_luckycharms"/>
+    
+    <item
+        android:id="@+id/option_specialk"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="@string/title_specialk"/>
+    
+    <item
+        android:id="@+id/option_total"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="@string/title_total"/>
+    
+    <item
+        android:id="@+id/option_trix"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="@string/title_trix"/>
+        
+
+</menu>
